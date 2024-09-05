@@ -1,0 +1,11 @@
+{
+  "displayName": "API Key",
+  "keyId": "9c936b8f-79f7-4bb5-95ca-e160ec329ed7",
+  "currentKey": "AIzaSyBNSVt3_MTLp0lJUrIXR9OykHZYsZhutZY",
+  "createTime": "2024-08-08T13:27:59.976454Z",
+  "apiTargetKeyDetails": {
+    "apiTargets": {
+      "generativelanguage.googleapis.com": {}
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+    "requestContext": {
+        "cacheConfigOverrides": {
+            "accessMode": "BACKEND_WITH_MONITORING"
+        },
+        "platformMetadata": {
+            "platformType": "RIF"
+        },
+        "p2Metadata": {
+            "feature": "features/1594236548319",
+            "environment": "environments/production",
+            "release": "releases/boq_cloud-boq-clientweb-metropolis_20240716.05_p0",
+            "extension": "extensions/metropolis"
+        },
+        "clientVersion": "pantheon.pangular_20240719.12_p0",
+        "pagePath": "/apis/credentials",
+        "pageViewId": 298458316975157,
+        "trackingId": "d2015302763928931",
+        "forcedExperimentIds": {
+            "add": [],
+            "remove": []
+        },
+        "backendOverrides": {},
+        "clientSessionId": "6FC5E734-0654-4334-B5C3-22DF6BCEA635",
+        "projectId": "project-kaiju-no-242777",
+        "experimentFlagsBinary": "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"
+    },
+    "querySignature": "2/fYHhmxyogu58j8n/pN1FX2Ly6gFyUysWblaeysOubus=",
+    "variables": {
+        "locale": "en_US",
+        "orderBy": [
+            {
+                "field": "createTime",
+                "order": "DESCENDING"
+            }
+        ],
+        "filter": "isCompatibleWithServicesV2:\"*true*\"",
+        "pageSize": 50,
+        "projectId": "project-kaiju-no-242777",
+        "services": [],
+        "projectNumber": "178782338130"
+    }
+}

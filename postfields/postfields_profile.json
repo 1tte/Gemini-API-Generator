@@ -1,0 +1,37 @@
+{
+    "requestContext": {
+        "platformMetadata": {
+            "platformType": "RIF"
+        },
+        "p2Metadata": {
+            "feature": "features/207297898",
+            "environment": "environments/production",
+            "release": "releases/4289739a-7fdf-3863-b12c-8aeeaa1f5bb7",
+            "extension": "extensions/iam"
+        },
+        "clientVersion": "pantheon.pangular_20240806.07_p1",
+        "pagePath": "/iam-admin/iam",
+        "pageViewId": 684245449169187,
+        "trackingId": "d4449784602962711",
+        "forcedExperimentIds": {
+            "add": [],
+            "remove": []
+        },
+        "backendOverrides": {},
+        "clientSessionId": "206888D6-E073-4EEB-A0FD-5D2C43108C43",
+        "projectId": "project-kaiju-no-242777",
+        "experimentFlagsBinary": "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"
+    },
+    "querySignature": "2/2t7snM4JiXn0M2f+OaIW1QVk+K6YdkiybDMPVy06wtA=",
+    "operationName": "GetIamPolicies",
+    "variables": {
+        "getIamPolicyRequests": [
+            {
+                "options": {
+                    "requestedPolicyVersion": 3
+                },
+                "resource": "project-kaiju-no-242777"
+            }
+        ]
+    }
+}
